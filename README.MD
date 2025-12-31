@@ -10,5 +10,4 @@ I am creating my frist repository
 
 Check my profile: [Felipe Giglio da Silva](https://www.linkedin.com/in/felipe-giglio-silva/)
 
-- Texte
 
